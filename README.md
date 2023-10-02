@@ -16,3 +16,5 @@
 - Azure static web apps
 - Azure Machine Learning
 
+## (Demo Video)[https://drive.google.com/file/d/1csi4VcM2n7pgXVLnaHktZwaQ5dxAkevh/view?usp=sharing]
+## (Demo Link)[https://bookhavenstorage.z13.web.core.windows.net/index.html]
